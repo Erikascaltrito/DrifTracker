@@ -74,7 +74,7 @@ To install and run the **DrifTracker** app, follow these steps:
 2. **Run**:
    - Clone the repository to your local machine:
      ```bash
-     git clone https://github.com/SabriVinco/DrifTracker.git
+     git clone https://github.com/Erikascaltrito/DrifTracker.git
      ```
    - Open the project in **Xcode** (version 15 or higher recommended).
    - Connect your physical iOS device to your machine.
