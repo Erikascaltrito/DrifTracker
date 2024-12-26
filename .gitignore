@@ -1,0 +1,55 @@
+# MacOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Xcode
+DerivedData/
+.idea/
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+
+# Swift Package Manager
+.build/
+Package.resolved
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output/
+
+# Core Data
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+*.sqlite-journal
+
+# Logs
+*.log
+*.xcactivitylog
+*.crash
+*.plist
+
+# Temporary files
+*.tmp
+*.swp
+*.lock
+
+# Others
+*.orig
+*.mode1v3
+*.pbxuser
+*.swp
+*.git/
+
+# Enviroment files
+.env
